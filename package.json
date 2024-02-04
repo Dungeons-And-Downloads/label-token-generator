@@ -1,0 +1,33 @@
+{
+  "name": "@dm-tools/label-token-generator",
+  "version": "1.0.0",
+  "description": "Generate tokens to use as labels on a map",
+  "main": "src/public/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dungeons-And-Downloads/label-token-generator.git"
+  },
+  "keywords": [
+    "dnd",
+    "dungeon",
+    "and",
+    "dragons",
+    "token",
+    "generator",
+    "node",
+    "electron"
+  ],
+  "author": "SaggingRufus",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/Dungeons-And-Downloads/label-token-generator/issues"
+  },
+  "homepage": "https://github.com/Dungeons-And-Downloads/label-token-generator#readme",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
