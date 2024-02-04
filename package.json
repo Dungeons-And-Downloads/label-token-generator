@@ -1,6 +1,6 @@
 {
   "name": "@dm-tools/label-token-generator",
-  "version": "1.0.0",
+  "version": "0.0.1-BETA",
   "description": "Generate tokens to use as labels on a map",
   "main": "src/public/index.js",
   "scripts": {
